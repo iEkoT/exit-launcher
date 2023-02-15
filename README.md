@@ -1,2 +1,2 @@
 # exit-launcher
-An Launcher for EXIT Applications  performed by CleanUI Apps Statue Program
+An Launcher for EXIT Applications created by CleanUI NPG Apps Program
